@@ -16,4 +16,4 @@
 
 ![ONDestroy](https://user-images.githubusercontent.com/79136871/187744730-3c23d9bf-1a7a-4c0f-bbf8-224a1ce6a5a8.png)
 
-![MainActivity](https://user-images.githubusercontent.com/79136871/187744758-77f1bb0d-dab9-4268-bab2-6352a334140b.png)
+![MainActivity](https://user-images.githubusercontent.com/79136871/187744930-79e960f1-6d8e-49f1-8273-071974e690b3.png)
