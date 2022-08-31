@@ -8,4 +8,8 @@
 
 ![ONStop](https://user-images.githubusercontent.com/79136871/187615332-8dc171cc-5849-4b02-a3af-80b4e6c83bd8.png)
 
+![image](https://user-images.githubusercontent.com/79136871/187743747-bd4ae10c-bb96-4fe9-91b8-add98daedc41.png)
+
 ![ONDestroy](https://user-images.githubusercontent.com/79136871/187615356-710087e9-e037-432b-8f7f-9e299123716f.png)
+
+![MainActivity](https://user-images.githubusercontent.com/79136871/187744044-fc40a07e-48b3-4c8b-8364-50da3faf15a6.png)
