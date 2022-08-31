@@ -10,6 +10,6 @@
 
 ![image](https://user-images.githubusercontent.com/79136871/187743747-bd4ae10c-bb96-4fe9-91b8-add98daedc41.png)
 
-![ONDestroy](https://user-images.githubusercontent.com/79136871/187615356-710087e9-e037-432b-8f7f-9e299123716f.png)
+![image](https://user-images.githubusercontent.com/79136871/187744294-0f878c33-fdbe-4a3a-bc66-a181a856a98a.png)
 
 ![MainActivity](https://user-images.githubusercontent.com/79136871/187744044-fc40a07e-48b3-4c8b-8364-50da3faf15a6.png)
