@@ -55,6 +55,14 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"onStop: onStop method is called",Toast.LENGTH_LONG).show()
         Snackbar.make(mycl,"onStop method is called",Snackbar.LENGTH_LONG).show()
     }
+    override fun onrestrat() {
+        super.onRestrat()
+        setContentView(R.layout.activity_main)
+        mycl=findViewById(R.id.mycl)
+        Log.i(TAG, "onRestrat: onRestrat method is called")
+        Toast.makeText(this,"onRestrat: onRestrat method is called",Toast.LENGTH_LONG).show()
+        Snackbar.make(mycl,"onRestrat method is called",Snackbar.LENGTH_LONG).show()
+    }
 
     override fun onDestroy() {
         super.onDestroy()
