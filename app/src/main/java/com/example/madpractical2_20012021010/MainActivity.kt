@@ -5,8 +5,8 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 import androidx.constraintlayout.widget.ConstraintLayout
-import androidx.coordinatorlayout.widget.CoordinatorLayout
 import com.google.android.material.snackbar.Snackbar
+
 
 class MainActivity : AppCompatActivity() {
     private val TAG = "MainActivity"
@@ -54,6 +54,14 @@ class MainActivity : AppCompatActivity() {
         Log.i(TAG, "onStop: onStop method is called")
         Toast.makeText(this,"onStop: onStop method is called",Toast.LENGTH_LONG).show()
         Snackbar.make(mycl,"onStop method is called",Snackbar.LENGTH_LONG).show()
+    }
+    override fun onRestart() {
+        super.onRestart()
+        setContentView(R.layout.activity_main)
+        mycl=findViewById(R.id.mycl)
+        Log.i(TAG, "onRestart: onRestart method is called")
+        Toast.makeText(this,"onRestart: onRestart method is called",Toast.LENGTH_LONG).show()
+        Snackbar.make(mycl,"onRestart method is called",Snackbar.LENGTH_LONG).show()
     }
 
     override fun onDestroy() {
